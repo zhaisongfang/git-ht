@@ -4,7 +4,7 @@
 
 	<parent>
 		<groupId>com.haitai.seal</groupId>
-		<artifactId>seal-parent</artifactId>
+		<artifactId>seal-parent-warwar</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath />
 	</parent>
