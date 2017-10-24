@@ -11,7 +11,7 @@
 <packaging>war</packaging>
 	<properties>
 	</properties>
-<!--  sfz 20171024  -->
+<!--  sfz 20171024  
 	<repositories>
 		<repository>
 			<id>public</id>
@@ -26,8 +26,11 @@
 		<developerConnection>scm:git:ssh://git@192.168.1.188/CMD/seal_new/seal-manager.git</developerConnection>
 		<url>http://192.168.1.188/gitweb</url>
 	</scm>
-	<!-- sfz 20171024 -->
+	-->
+	<!-- sfz 20171024 
+		  -->
 	  <repositories>
+
         <repository>
             <id>jboss-public-repository-group</id>
             <name>JBoss Public Repository Group</name>
